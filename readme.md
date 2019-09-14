@@ -1,4 +1,4 @@
-# A Gruvbox theme for Intelli IDEA
+# A Gruvbox theme for IntelliJ IDEA
 
 
 ![java](https://github.com/xiaopihai7256/MyGruvbox/raw/master/screenshot/screenshot_java.png)
