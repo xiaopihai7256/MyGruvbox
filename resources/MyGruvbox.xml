@@ -193,9 +193,7 @@
             </value>
         </option>
         <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
-            <value>
-                <option name="FOREGROUND" value="b8bb26" />
-            </value>
+            <value />
         </option>
         <option name="CTRL_CLICKABLE">
             <value>
@@ -381,7 +379,7 @@
         </option>
         <option name="DEFAULT_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="fb4934" />
+                <option name="FOREGROUND" value="fe8019" />
             </value>
         </option>
         <option name="DEFAULT_LABEL">
@@ -602,11 +600,7 @@
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
-        <option name="JAVA_KEYWORD">
-            <value>
-                <option name="FOREGROUND" value="fe8019" />
-            </value>
-        </option>
+        <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
         <option name="KOTLIN_ANNOTATION">
             <value>
                 <option name="FOREGROUND" value="83786e" />
@@ -923,12 +917,8 @@
         </option>
         <option name="STATIC_FIELD_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="83a598" />
-            </value>
-        </option>
-        <option name="STATIC_METHOD_ATTRIBUTES">
-            <value>
-                <option name="FOREGROUND" value="b8bb26" />
+                <option name="FOREGROUND" value="458588" />
+                <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
@@ -1018,5 +1008,4 @@
             </value>
         </option>
     </attributes>
-
 </scheme>
