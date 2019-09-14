@@ -1,0 +1,37 @@
+<idea-plugin>
+  <id>io.github.xiaopihai7256</id>
+  <name>MyGruvbox</name>
+  <version>0.1.0</version>
+  <vendor email="xiaopihai7256@gmail.com" url="http://github.com/xiaopihai7256">xiaopihai7256</vendor>
+
+  <description><![CDATA[
+      A base on Gruvobox theme. Support Java, Scala, Javascript, Html, Xml, Sql...
+    ]]></description>
+
+  <change-notes><![CDATA[
+      MyGruvbox theme.
+      <ul>
+        <li>0.1: basic theme and scheme
+      </ul>
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <!-- uncomment to enable plugin in all products
+  <depends>com.intellij.modules.lang</depends>
+  -->
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="12d1ebc9-0ab9-4977-922e-0a225f9d50fb" path="/MyGruvbox.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
