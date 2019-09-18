@@ -1,5 +1,4 @@
 <scheme name="MyGruvbox" version="142" parent_scheme="Darcula">
-
     <option name="FONT_SCALE" value="1.0" />
     <console-font>
         <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -7,7 +6,7 @@
     </console-font>
     <console-font>
         <option name="EDITOR_FONT_NAME" value="Hack" />
-        <option name="EDITOR_FONT_SIZE" value="16" />
+        <option name="EDITOR_FONT_SIZE" value="14" />
     </console-font>
     <option name="CONSOLE_LINE_SPACING" value="1.2" />
     <colors>
@@ -31,7 +30,7 @@
         <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="fabd2f" />
-                <option name="EFFECT_COLOR" value="fabd2f" />
+                <option name="FONT_TYPE" value="1" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -366,7 +365,7 @@
         <option name="DEFAULT_INTERFACE_NAME">
             <value>
                 <option name="FOREGROUND" value="fabd2f" />
-                <option name="EFFECT_COLOR" value="fabd2f" />
+                <option name="FONT_TYPE" value="1" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -433,7 +432,8 @@
         </option>
         <option name="DEFAULT_STATIC_FIELD">
             <value>
-                <option name="FOREGROUND" value="83a598" />
+                <option name="FOREGROUND" value="458588" />
+                <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="DEFAULT_STATIC_METHOD">
@@ -596,11 +596,12 @@
         <option name="INTERFACE_NAME_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="fabd2f" />
-                <option name="EFFECT_COLOR" value="fabd2f" />
+                <option name="FONT_TYPE" value="1" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
         <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+        <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
         <option name="KOTLIN_ANNOTATION">
             <value>
                 <option name="FOREGROUND" value="83786e" />
@@ -619,6 +620,7 @@
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
+        <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
         <option name="LOG_ERROR_OUTPUT">
             <value>
                 <option name="FOREGROUND" value="fb4934" />
