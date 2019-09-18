@@ -3,3 +3,6 @@
 
 #java
 out
+
+# mac
+.DS_Store
