@@ -1,17 +1,35 @@
 <idea-plugin>
   <id>io.github.xiaopihai7256</id>
   <name>MyGruvbox</name>
-  <version>0.1.0</version>
+  <version>0.2.0</version>
   <vendor email="xiaopihai7256@gmail.com" url="http://github.com/xiaopihai7256">xiaopihai7256</vendor>
 
   <description><![CDATA[
-      A custom Gruvbox theme. Support Java, Kotlin, Groovy, Scala, Javascript, Html, Xml, Sql, Shell...
+      <p>A custom <a href="https://github.com/morhetz/gruvbox">Gruvbox</a> theme. Support Java, Kotlin, Groovy, Scala, Javascript, Html, Xml, Sql, Shell...</p>
+      <br>
+      <p>
+      To install:
+      <ul>
+        <li> Go to Settings (Preferences) | Plugins, find the theme plugin and install it.</li>
+        <li> Restart IDE.</li>
+        <li> Go to Settings (Preferences) | Appearance & Behavior | Appearance and see the Theme dropdown.</li>
+      </ul>
+      </p>
     ]]></description>
 
   <change-notes><![CDATA[
-      MyGruvbox theme.
+      0.2.0 version: Adjust UI color, more coordinated
       <ul>
-        <li>0.1: basic theme and scheme
+        <li>adjust button and comboBox fucked color.</li>
+        <li>adjust tree list color.<li>
+        <li>selected color fix.<li>
+      </ul>
+      <hr>
+      0.2.0 版本：UI 配色完善，整体更协调
+      <ul>
+        <li>按钮和选项卡颜色调整</li>
+        <li>树形组件颜色调整</li>
+        <li>选中颜色错误修正<li>
       </ul>
     ]]>
   </change-notes>
@@ -21,9 +39,8 @@
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
        on how to target different products -->
-  <!-- uncomment to enable plugin in all products
+  <!-- uncomment to enable plugin in all products -->
   <depends>com.intellij.modules.lang</depends>
-  -->
 
   <extensions defaultExtensionNs="com.intellij">
     <!-- Add your extensions here -->
