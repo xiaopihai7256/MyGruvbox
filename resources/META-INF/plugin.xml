@@ -24,11 +24,11 @@
   <change-notes><![CDATA[
       0.2.0 version: Adjust UI color, more coordinated
       <ul>
-        <li>adjust button and comboBox fucked color.</li>
+        <li>adjust button and comboBox color.</li>
         <li>adjust tree list color.<li>
         <li>selected color fix.<li>
       </ul>
-      <hr>
+      <br>
       0.2.0 版本：UI 配色完善，整体更协调
       <ul>
         <li>按钮和选项卡颜色调整</li>
