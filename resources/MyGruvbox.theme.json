@@ -6,8 +6,8 @@
   "colors": {
     "bg0sh": "#17191a",
     "bg0h": "#1D2021",
-    "bg0s": "#32302f",
     "bg0": "#282828",
+    "bg0s": "#32302f",
     "bg1": "#3c3836",
     "bg2": "#504945",
     "bg3": "#665c54",
@@ -39,17 +39,17 @@
       "infoForeground": "fg1",
 
       "lightSelectionBackground": "bg1",
-      "selectionBackground": "bg2",
+      "selectionBackground": "#076678",
       "selectionForeground": "fg0",
 
       "selectionBackgroundInactive": "bg1",
 
-      "selectedBackground": "bg0sh",
+      "selectedBackground": "bg0",
       "selectedForeground": "fg0",
       "selectedInactiveBackground": "bg1",
       "selectedBackgroundInactive": "bg1",
 
-      "hoverBackground": "#28282860",
+      "hoverBackground": "bg0h",
 
       "borderColor": "bg1",
       "disabledBorderColor": "bg0h",
