@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>io.github.xiaopihai7256</id>
   <name>MyGruvbox Theme</name>
-  <version>0.3.0</version>
+  <version>0.3.1</version>
   <vendor email="xiaopihai7256@gmail.com" url="http://github.com/xiaopihai7256">xiaopihai7256</vendor>
 
   <description><![CDATA[
@@ -22,29 +22,23 @@
     ]]></description>
 
   <change-notes><![CDATA[
+      0.3.1 version: Fix easy to mix colors
       0.3.0 version: Perfect details, more conducive to reading
       <ul>
         <li>adjust selected background.</li>
-        <li>fixed bad color.<li>
+        <li>fixed bad color.</li>
       </ul>
       0.2.0 version: Adjust UI color, more coordinated
       <ul>
         <li>adjust button and comboBox color.</li>
-        <li>adjust tree list color.<li>
-        <li>selected color fix.<li>
-      </ul>
-      <br>
-      0.2.0 版本：UI 配色完善，整体更协调
-      <ul>
-        <li>按钮和选项卡颜色调整</li>
-        <li>树形组件颜色调整</li>
-        <li>选中颜色错误修正<li>
+        <li>adjust tree list color.</li>
+        <li>selected color fix.</li>
       </ul>
     ]]>
   </change-notes>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
-  <idea-version since-build="173.0"/>
+  <idea-version since-build="191.0"/>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
        on how to target different products -->

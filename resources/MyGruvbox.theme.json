@@ -44,7 +44,7 @@
 
       "selectionBackgroundInactive": "bg1",
 
-      "selectedBackground": "bg0",
+      "selectedBackground": "bg0h",
       "selectedForeground": "fg0",
       "selectedInactiveBackground": "bg1",
       "selectedBackgroundInactive": "bg1",
@@ -76,8 +76,8 @@
     },
     "ToolWindow": {
       "Header": {
-        "background": "bg1",
-        "inactiveBackground": "bg0"
+        "background": "bg0h",
+        "inactiveBackground": "bg0s"
       }
     },
     "EditorTabs": {
