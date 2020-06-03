@@ -1,5 +1,12 @@
 # A Gruvbox theme for IntelliJ IDEA
 
+
+<p align="center"> 
+
+<a href="https://plugins.jetbrains.com/plugin/13022-mygruvbox"><img src="https://img.shields.io/jetbrains/plugin/d/13022-mygruvbox.svg?style=flat-square"></a>
+<a href="https://plugins.jetbrains.com/plugin/13022-mygruvbox"><img src="https://img.shields.io/jetbrains/plugin/v/13022-mygruvbox.svg?style=flat-square"></a>
+</p>
+
 > [see in jetbrains plugins](https://plugins.jetbrains.com/plugin/13022-mygruvbox)
 
 ![java](https://github.com/xiaopihai7256/MyGruvbox/raw/master/screenshot/screenshot_java.png)
