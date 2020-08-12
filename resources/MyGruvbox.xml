@@ -7,6 +7,7 @@
     <option name="EDITOR_FONT_NAME" value="Hack"/>
     <option name="EDITOR_FONT_SIZE" value="14"/>
   </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="79740e"/>
     <option name="ANNOTATIONS_COLOR" value="928374"/>
@@ -192,9 +193,6 @@
         <option name="FOREGROUND" value="fabd2f"/>
       </value>
     </option>
-    <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
-      <value/>
-    </option>
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="83a598"/>
@@ -330,12 +328,7 @@
     </option>
     <option name="DEFAULT_ENTITY">
       <value>
-        <option name="FOREGROUND" value="d79921"/>
-      </value>
-    </option>
-    <option name="DEFAULT_FUNCTION_CALL">
-      <value>
-        <option name="FOREGROUND" value="b8bb26"/>
+        <option name="FOREGROUND" value="d79921" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -591,7 +584,12 @@
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="83a598"/>
+        <option name="FOREGROUND" value="83a598" />
+      </value>
+    </option>
+    <option name="INSTANCE_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="458588" />
       </value>
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
@@ -643,9 +641,6 @@
         <option name="BACKGROUND" value="3b514d"/>
         <option name="FONT_TYPE" value="1"/>
       </value>
-    </option>
-    <option name="METHOD_CALL_ATTRIBUTES">
-      <value/>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>

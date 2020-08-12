@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>io.github.xiaopihai7256</id>
   <name>MyGruvbox Theme</name>
-  <version>0.3.1</version>
+  <version>0.3.3</version>
   <vendor email="xiaopihai7256@gmail.com" url="http://github.com/xiaopihai7256">xiaopihai7256</vendor>
 
   <description><![CDATA[
@@ -22,6 +22,12 @@
     ]]></description>
 
   <change-notes><![CDATA[
+      0.3.3 version: Fix some easy to mixed colors
+      <ul>
+        <li>link color fixed.</li>
+        <li>remove function call color for java (It's mixed with string color).</li>
+      </ul>
+      <br>
       0.3.1 version: Fix easy to mix colors
       <br>
       0.3.0 version: Perfect details, more conducive to reading

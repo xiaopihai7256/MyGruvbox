@@ -85,7 +85,7 @@
       "inactiveColoredFileBackground": "bg1"
     },
     "Link": {
-      "activeForeground": "darkBlue",
+      "activeForeground": "yellow",
       "hoverForeground": "darkBlue",
       "pressedForeground": "darkBlue",
       "visitedForeground": "darkBlue"
