@@ -1,10 +1,11 @@
 <idea-plugin>
   <id>io.github.xiaopihai7256</id>
   <name>MyGruvbox Theme</name>
-  <version>0.3.3</version>
+  <version>0.4.0</version>
   <vendor email="xiaopihai7256@gmail.com" url="http://github.com/xiaopihai7256">xiaopihai7256</vendor>
 
   <description><![CDATA[
+      <h3>This's a gift for Vimer</h3>
       <p>A custom <a href="https://github.com/morhetz/gruvbox">Gruvbox</a> theme, focus on more eye-friendly code colors. Support Java, Kotlin, Groovy, Scala, Javascript, Html, Xml, Sql, Shell...</p>
       <br>
       <p>
@@ -22,6 +23,12 @@
     ]]></description>
 
   <change-notes><![CDATA[
+      0.4.0 version: Perfect the details
+      <ul>
+        <li>support more languages</li>
+        <li>perfect more details</li>
+      </ul>
+      <br>
       0.3.3 version: Fix some easy to mixed colors
       <ul>
         <li>link color fixed.</li>
