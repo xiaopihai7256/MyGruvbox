@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>io.github.xiaopihai7256</id>
   <name>MyGruvbox Theme</name>
-  <version>0.4.0</version>
+  <version>0.5.0</version>
   <vendor email="xiaopihai7256@gmail.com" url="http://github.com/xiaopihai7256">xiaopihai7256</vendor>
 
   <description><![CDATA[
@@ -23,30 +23,10 @@
     ]]></description>
 
   <change-notes><![CDATA[
-      0.4.0 version: Perfect the details
+      0.5.0 version: Perfect the details
       <ul>
-        <li>support more languages</li>
-        <li>perfect more details</li>
-      </ul>
-      <br>
-      0.3.3 version: Fix some easy to mixed colors
-      <ul>
-        <li>link color fixed.</li>
-        <li>remove function call color for java (It's mixed with string color).</li>
-      </ul>
-      <br>
-      0.3.1 version: Fix easy to mix colors
-      <br>
-      0.3.0 version: Perfect details, more conducive to reading
-      <ul>
-        <li>adjust selected background.</li>
-        <li>fixed bad color.</li>
-      </ul>
-      0.2.0 version: Adjust UI color, more coordinated
-      <ul>
-        <li>adjust button and comboBox color.</li>
-        <li>adjust tree list color.</li>
-        <li>selected color fix.</li>
+        <li>perfect for confusing colors</li>
+        <li>fix some bad colors</li>
       </ul>
     ]]>
   </change-notes>
